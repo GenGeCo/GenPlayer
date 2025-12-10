@@ -122,10 +122,16 @@ No ads, no tracking, no data selling. Just an app for those who, like me, want t
 
 ---
 
-## License
+## License 
 
-Copyright © 2025 GeCo gruppogea. All Rights Reserved.
+Freeware, Copyright © 2025 GeCo gruppogea. All Rights Reserved. 
 
 ---
 
-Made with ❤️ for audiophiles
+**Website**: https://www.gruppogea.net/genplayer/
+
+**Contact**: gecogea@gmail.com
+
+---
+
+*GenPlayer - Music the way it should sound.*
