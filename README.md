@@ -18,6 +18,14 @@ GenPlayer is the audio player for audiophiles who want to know *exactly* what's 
 
 ---
 
+## PhoneVolume — Windows companion
+
+Listening to GenPlayer with the phone plugged into your PC? **PhoneVolume** puts your phone's media volume in the Windows taskbar, right next to the clock: one click, one slider, one step per mouse-wheel notch. Works with any Android phone via ADB (USB debugging).
+
+**[⬇ Download PhoneVolume.exe](https://github.com/GenGeCo/GenPlayer/raw/main/PhoneVolume/bin/PhoneVolume.exe)** · [Instructions & source code](PhoneVolume/)
+
+---
+
 ## Screenshots
 
 | Player | Library | File Info |
